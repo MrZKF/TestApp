@@ -17,6 +17,7 @@
 		1277B36A20690D2100327076 /* TestAppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1277B36920690D2100327076 /* TestAppUITests.m */; };
 		1277B3792069143400327076 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 1277B3782069143400327076 /* Person.m */; };
 		1277B3C02069250800327076 /* GG.m in Sources */ = {isa = PBXBuildFile; fileRef = 1277B3BF2069250800327076 /* GG.m */; };
+		1277B3C32069261100327076 /* KK.m in Sources */ = {isa = PBXBuildFile; fileRef = 1277B3C22069261100327076 /* KK.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		1277B3782069143400327076 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		1277B3BE2069250800327076 /* GG.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GG.h; sourceTree = "<group>"; };
 		1277B3BF2069250800327076 /* GG.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GG.m; sourceTree = "<group>"; };
+		1277B3C12069261100327076 /* KK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KK.h; sourceTree = "<group>"; };
+		1277B3C22069261100327076 /* KK.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KK.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +114,8 @@
 				1277B34620690D2100327076 /* AppDelegate.m */,
 				1277B34820690D2100327076 /* ViewController.h */,
 				1277B34920690D2100327076 /* ViewController.m */,
+				1277B3C12069261100327076 /* KK.h */,
+				1277B3C22069261100327076 /* KK.m */,
 				1277B3BE2069250800327076 /* GG.h */,
 				1277B3BF2069250800327076 /* GG.m */,
 				1277B3772069143300327076 /* Person.h */,
@@ -278,6 +283,7 @@
 				1277B34A20690D2100327076 /* ViewController.m in Sources */,
 				1277B3C02069250800327076 /* GG.m in Sources */,
 				1277B35520690D2100327076 /* main.m in Sources */,
+				1277B3C32069261100327076 /* KK.m in Sources */,
 				1277B3792069143400327076 /* Person.m in Sources */,
 				1277B34720690D2100327076 /* AppDelegate.m in Sources */,
 			);
